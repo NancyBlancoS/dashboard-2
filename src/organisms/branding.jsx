@@ -6,19 +6,19 @@ import '../styles/styles.css';
 
 export default function Branding() {
     const containerStyle = {
-        width: '100%',
         background: 'linear-gradient(to right, #4239C8, #322E83)',
         color: 'white',
-        padding: '8px 20px',
-        margin: '10px'
+        padding: '5px 20px',
+        margin: '10px 0',
+        borderRadius: '5px'
     };
 
     return (
         <Grid className= 'branding' direction="column" sx={containerStyle}>
-            <Grid className='branding-title' sx = {{marginBottom:'-25px'}}>
+            <Grid className='branding-title'>
                 <h2>Champions League</h2>
             </Grid>
-            <Grid className='branding-text'>
+            <Grid className='branding-text' sx={{marginTop:'-20px'}}>
                 <h6>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam numquam similique fugiat quia mollitia maxime</h6>
             </Grid>
         </Grid>

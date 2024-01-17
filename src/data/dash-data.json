@@ -1,0 +1,91 @@
+{
+    "kpi":[
+        {
+            "logo":"live",
+            "title":"ufc quarter final",
+            "barcelona":3,
+            "realMadrid":18
+        },
+        {
+            "logo":"live",
+            "title":"ufc quarter final",
+            "barcelona":3,
+            "realMadrid":18
+        },
+        {
+            "logo":"live",
+            "title":"ufc quarter final",
+            "barcelona":3,
+            "realMadrid":18
+        },
+        {
+            "logo":"live",
+            "title":"ufc quarter final",
+            "barcelona":3,
+            "realMadrid":18
+        }
+    ],
+    "top":[
+        {
+            "title":"erling hazard",
+            "subTitle":"psg",
+            "score": 12
+        },
+        {
+            "title":"erling hazard",
+            "subTitle":"psg",
+            "score": 12
+        },
+        {
+            "title":"erling hazard",
+            "subTitle":"psg",
+            "score": 12
+        }
+    ],
+    "result":[
+        {
+            "logo": "view alt",
+                "team1": {
+                "name":"porto",
+                "score": 1
+                },
+                "team2": {
+                "name":"chelsea",
+                "score": 3
+        }
+        },
+        {
+            "logo": "view alt",
+            "team1": {
+            "name":"porto",
+            "score": 1
+            },
+            "team2": {
+            "name":"chelsea",
+            "score": 3
+            }
+        },
+        {
+            "logo": "view alt",
+            "team1": {
+            "name":"porto",
+            "score": 1
+            },
+            "team2": {
+            "name":"chelsea",
+            "score": 3
+            }
+        }
+    ],
+    "news":[
+        {
+            "title": "news",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        
+        {
+            "title": "news",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }
+    ]
+    }
